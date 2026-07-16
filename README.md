@@ -1,2 +1,2 @@
 # ai-learning
-ai学习仓库
+我的 AI 转型学习仓库
