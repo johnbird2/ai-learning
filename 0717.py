@@ -1,7 +1,7 @@
 '''
 Author: fengjian
 Date: 2026-07-17 10:37:05
-LastEditTime: 2026-07-17 17:42:11
+LastEditTime: 2026-07-20 09:14:08
 LastEditors: fengjian
 Description: 
 FilePath: \ai-learning\0717.py
@@ -54,7 +54,7 @@ print(17%3) #％操作符返回除法的余数
 #2
 print(5*3+2)
 #17
-print(5**3) #5的2次方
+print(5**3) #5的3次方
 #125
 
 import math
