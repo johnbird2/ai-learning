@@ -1,7 +1,7 @@
 '''
 Author: fengjian
 Date: 2026-07-17 10:37:05
-LastEditTime: 2026-07-20 09:14:08
+LastEditTime: 2026-07-20 09:17:39
 LastEditors: fengjian
 Description: 
 FilePath: \ai-learning\0717.py
@@ -86,8 +86,8 @@ print(math.asin(0.5)) #反正弦
 print("=============笔记===================")
 print(round(10.5)) #10
 print(round(11.5)) #12 
-print(round(2.5)) #12 
-print(round(3.5)) #12 
+print(round(2.5)) #2 
+print(round(3.5)) #4 
 
 print("============================字符串学习===================================")
 #python3字符串
